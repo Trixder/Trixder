@@ -2,7 +2,7 @@
   
 # **Trixder**
 
-🔭 I’m currently working on [Login](https://github.com/Trixder/Login-Plugin-PaperMC) and [Music Player](https://github.com/Trixder/MusicPlayer-Plugin-PaperMC)
+I’m currently working on [Login](https://github.com/Trixder/Login-Plugin-PaperMC) and [Music Player](https://github.com/Trixder/MusicPlayer-Plugin-PaperMC)
 </div>
 <!--
 - 🌱 I’m currently learning ...
